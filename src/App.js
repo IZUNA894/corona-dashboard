@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import Navbar from "./components/navbar";
-import IndiaMap from "./components/indiaMap";
 import IndiaMap2 from "./components/k-file1";
 function App() {
   return (

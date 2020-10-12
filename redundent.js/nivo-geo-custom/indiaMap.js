@@ -1,8 +1,8 @@
 import { ResponsiveChoropleth } from "./nivo-geo-custom";
 import React, { Component } from "react";
-import worldMapData from "./assets/worldMap.json";
-import geo from "./assets/india.topo.json";
-import datrum from "./assets/datrum";
+import worldMapData from "../../components/assets/worldMap.json";
+import geo from "../../components/assets/india.topo.json";
+import datrum from "../../components/assets/datrum";
 
 import { feature } from "topojson-client";
 
